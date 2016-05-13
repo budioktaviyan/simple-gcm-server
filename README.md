@@ -1,4 +1,4 @@
-# Simple Google Cloud Message (Java Server Side)
+# Simple Google Cloud Messaging (Java Server Side)
 
 ### Libraries:
 * jackson-annotations
