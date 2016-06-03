@@ -5,7 +5,7 @@ package com.baculsoft.gcm.server;
  */
 public class GcmServerTest {
 	// Change with your own device token
-	private static final String REG_TOKEN = "e3yByu5yuoA:APA91bGNi0jsyUAGe_Hh05McV-UKiKUQKoCOW-klrvlUyV2gkNwF6EgRemmIjtR58tHjNV4YhV1uBUriIUqCqc1yszd3S2SzlMTNG4HctEHSLMHmeXEMNtaulNm77lK3eaV7wPPxcZ7Z";
+	private static final String REG_TOKEN = "";
 
 	public static void main(String[] args) {
 		System.out.println("Sending POST to GCM...");
